@@ -21,7 +21,7 @@ Inventory Management system provides information to efficiently manage the flow 
 INVENTORY is defined as the blocked Working Capital of an organization in the form of materials. As this is the blocked Working Capital of the organization, ideally it should be zero. But we are maintaining Inventory. This Inventory is maintained to take care of fluctuations in demand and lead time. In some cases, it is maintained to take care of the increasing price tendency of commodities or rebates in bulk buying.
 
 # SCOPE:
-1. This will help us maintain the exact count of any product.
+1. This will help us maintain the exact count of any product.
 2. Can help us to set the minimum quantity of any product below which we can order the product from manufacturer.
 3. Can reduce duplicate entries
 
